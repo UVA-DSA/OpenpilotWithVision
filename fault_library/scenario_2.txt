@@ -1,0 +1,9 @@
+title:2_v_rel-add-incRADAR-H1
+location//selfdrive/test/plant/plant.py//#radar_dRel:HOOK#
+fault 1//if self.headway_time>=0 and self.headway_time<=2.0://v_rel+=4.91744
+fault 2//if self.headway_time>=0 and self.headway_time<=2.0://v_rel+=8.9408
+fault 3//if self.headway_time>=0 and self.headway_time<=2.0://v_rel+=13.4112
+fault 4//if self.headway_time>=0 and self.headway_time<=2.0://v_rel+=18.32864
+fault 5//if self.headway_time>=0 and self.headway_time<=2.0://v_rel+=24.5872
+fault 6//if self.headway_time>=0 and self.headway_time<=2.0://v_rel+=26.8224
+Total number of fault cases: 6

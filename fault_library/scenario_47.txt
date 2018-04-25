@@ -1,0 +1,5 @@
+title:47_vision-effect-noisyInputManeuver-H3
+location//selfdrive/test/plant/maneuver.py//#visionFault:HOOK#
+fault 1//if self.frameIdx>=500.0 and self.frameIdx<=3000.0://self.effect=9//self.thickness=3
+fault 2//if self.frameIdx>=500.0 and self.frameIdx<=3000.0://self.effect=9//self.thickness=5
+Total number of fault cases: 2

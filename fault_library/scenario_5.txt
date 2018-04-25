@@ -1,0 +1,4 @@
+title:5_radar-none-incRADAR-H1
+location//selfdrive/test/plant/plant.py//#radar_none:HOOK#
+fault 1//if self.headway_time>=2.0 and self.headway_time<=30.0://none
+Total number of fault cases: 1

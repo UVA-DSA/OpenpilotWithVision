@@ -1,0 +1,9 @@
+title:4_v_rel-sub-incRADAR-H2
+location//selfdrive/test/plant/plant.py//#radar_dRel:HOOK#
+fault 1//if not self.lead_relevancy and self.current_time()>0://v_rel-=8.04672
+fault 2//if not self.lead_relevancy and self.current_time()>0://v_rel-=12.96416
+fault 3//if not self.lead_relevancy and self.current_time()>0://v_rel-=17.43456
+fault 4//if not self.lead_relevancy and self.current_time()>0://v_rel-=19.22272
+fault 5//if not self.lead_relevancy and self.current_time()>0://v_rel-=22.352
+fault 6//if not self.lead_relevancy and self.current_time()>0://v_rel-=26.8224
+Total number of fault cases: 6

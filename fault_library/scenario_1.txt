@@ -1,0 +1,27 @@
+title:1_d_rel-add-incRADAR-H1
+location//selfdrive/test/plant/plant.py//#radar_dRel:HOOK#
+fault 1//if self.headway_time>=0 and self.headway_time<=2.0://radar_dRel+=20
+fault 2//if self.headway_time>=0 and self.headway_time<=2.0://radar_dRel+=34
+fault 3//if self.headway_time>=0 and self.headway_time<=2.0://radar_dRel+=36
+fault 4//if self.headway_time>=0 and self.headway_time<=2.0://radar_dRel+=49
+fault 5//if self.headway_time>=0 and self.headway_time<=2.0://radar_dRel+=64
+fault 6//if self.headway_time>=0 and self.headway_time<=2.0://radar_dRel+=68
+fault 7//if self.headway_time>=0 and self.headway_time<=2.0://radar_dRel+=84
+fault 8//if self.headway_time>=0 and self.headway_time<=2.0://radar_dRel+=88
+fault 9//if self.headway_time>=0 and self.headway_time<=2.0://radar_dRel+=97
+fault 10//if self.headway_time>=0 and self.headway_time<=2.0://radar_dRel+=109
+fault 11//if self.headway_time>=0 and self.headway_time<=2.0://radar_dRel+=115
+fault 12//if self.headway_time>=0 and self.headway_time<=2.0://radar_dRel+=133
+fault 13//if self.headway_time>=0 and self.headway_time<=2.0://radar_dRel+=141
+fault 14//if self.headway_time>=0 and self.headway_time<=2.0://radar_dRel+=148
+fault 15//if self.headway_time>=0 and self.headway_time<=2.0://radar_dRel+=164
+fault 16//if self.headway_time>=0 and self.headway_time<=2.0://radar_dRel+=165
+fault 17//if self.headway_time>=0 and self.headway_time<=2.0://radar_dRel+=183
+fault 18//if self.headway_time>=0 and self.headway_time<=2.0://radar_dRel+=194
+fault 19//if self.headway_time>=0 and self.headway_time<=2.0://radar_dRel+=196
+fault 20//if self.headway_time>=0 and self.headway_time<=2.0://radar_dRel+=212
+fault 21//if self.headway_time>=0 and self.headway_time<=2.0://radar_dRel+=217
+fault 22//if self.headway_time>=0 and self.headway_time<=2.0://radar_dRel+=227
+fault 23//if self.headway_time>=0 and self.headway_time<=2.0://radar_dRel+=236
+fault 24//if self.headway_time>=0 and self.headway_time<=2.0://radar_dRel+=246
+Total number of fault cases: 24

@@ -1,0 +1,28 @@
+title:42_d_rel-sub-incRadVis-H2
+location//selfdrive/test/plant/plant.py//#RadVis_dRel:HOOK#
+fault 1//if not self.lead_relevancy://d_rel-=13//if d_rel<0://  d_rel= 0
+fault 2//if not self.lead_relevancy://d_rel-=27//if d_rel<0://  d_rel= 0
+fault 3//if not self.lead_relevancy://d_rel-=34//if d_rel<0://  d_rel= 0
+fault 4//if not self.lead_relevancy://d_rel-=43//if d_rel<0://  d_rel= 0
+fault 5//if not self.lead_relevancy://d_rel-=59//if d_rel<0://  d_rel= 0
+fault 6//if not self.lead_relevancy://d_rel-=66//if d_rel<0://  d_rel= 0
+fault 7//if not self.lead_relevancy://d_rel-=73//if d_rel<0://  d_rel= 0
+fault 8//if not self.lead_relevancy://d_rel-=87//if d_rel<0://  d_rel= 0
+fault 9//if not self.lead_relevancy://d_rel-=90//if d_rel<0://  d_rel= 0
+fault 10//if not self.lead_relevancy://d_rel-=103//if d_rel<0://  d_rel= 0
+fault 11//if not self.lead_relevancy://d_rel-=113//if d_rel<0://  d_rel= 0
+fault 12//if not self.lead_relevancy://d_rel-=124//if d_rel<0://  d_rel= 0
+fault 13//if not self.lead_relevancy://d_rel-=134//if d_rel<0://  d_rel= 0
+fault 14//if not self.lead_relevancy://d_rel-=149//if d_rel<0://  d_rel= 0
+fault 15//if not self.lead_relevancy://d_rel-=158//if d_rel<0://  d_rel= 0
+fault 16//if not self.lead_relevancy://d_rel-=165//if d_rel<0://  d_rel= 0
+fault 17//if not self.lead_relevancy://d_rel-=172//if d_rel<0://  d_rel= 0
+fault 18//if not self.lead_relevancy://d_rel-=186//if d_rel<0://  d_rel= 0
+fault 19//if not self.lead_relevancy://d_rel-=197//if d_rel<0://  d_rel= 0
+fault 20//if not self.lead_relevancy://d_rel-=206//if d_rel<0://  d_rel= 0
+fault 21//if not self.lead_relevancy://d_rel-=216//if d_rel<0://  d_rel= 0
+fault 22//if not self.lead_relevancy://d_rel-=226//if d_rel<0://  d_rel= 0
+fault 23//if not self.lead_relevancy://d_rel-=230//if d_rel<0://  d_rel= 0
+fault 24//if not self.lead_relevancy://d_rel-=241//if d_rel<0://  d_rel= 0
+fault 25//if not self.lead_relevancy://d_rel-=252//if d_rel<0://  d_rel= 0
+Total number of fault cases: 25

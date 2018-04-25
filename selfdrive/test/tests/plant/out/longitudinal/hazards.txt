@@ -1,0 +1,2 @@
+*********Hazards generated in this test run**********
+HAZARD || H3 || Vehicle is Out of Lane || Time(sec)=2110118.371292

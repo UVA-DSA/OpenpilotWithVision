@@ -1,0 +1,27 @@
+title:39_d_rel-add-incVision-H1
+location//selfdrive/test/plant/plant.py//#vision_dRel:HOOK#
+fault 1//if self.headway_time>=0 and self.headway_time<=2.0://vision_dRel+=21
+fault 2//if self.headway_time>=0 and self.headway_time<=2.0://vision_dRel+=28
+fault 3//if self.headway_time>=0 and self.headway_time<=2.0://vision_dRel+=42
+fault 4//if self.headway_time>=0 and self.headway_time<=2.0://vision_dRel+=54
+fault 5//if self.headway_time>=0 and self.headway_time<=2.0://vision_dRel+=64
+fault 6//if self.headway_time>=0 and self.headway_time<=2.0://vision_dRel+=66
+fault 7//if self.headway_time>=0 and self.headway_time<=2.0://vision_dRel+=83
+fault 8//if self.headway_time>=0 and self.headway_time<=2.0://vision_dRel+=91
+fault 9//if self.headway_time>=0 and self.headway_time<=2.0://vision_dRel+=95
+fault 10//if self.headway_time>=0 and self.headway_time<=2.0://vision_dRel+=106
+fault 11//if self.headway_time>=0 and self.headway_time<=2.0://vision_dRel+=116
+fault 12//if self.headway_time>=0 and self.headway_time<=2.0://vision_dRel+=126
+fault 13//if self.headway_time>=0 and self.headway_time<=2.0://vision_dRel+=136
+fault 14//if self.headway_time>=0 and self.headway_time<=2.0://vision_dRel+=150
+fault 15//if self.headway_time>=0 and self.headway_time<=2.0://vision_dRel+=161
+fault 16//if self.headway_time>=0 and self.headway_time<=2.0://vision_dRel+=167
+fault 17//if self.headway_time>=0 and self.headway_time<=2.0://vision_dRel+=175
+fault 18//if self.headway_time>=0 and self.headway_time<=2.0://vision_dRel+=193
+fault 19//if self.headway_time>=0 and self.headway_time<=2.0://vision_dRel+=203
+fault 20//if self.headway_time>=0 and self.headway_time<=2.0://vision_dRel+=207
+fault 21//if self.headway_time>=0 and self.headway_time<=2.0://vision_dRel+=221
+fault 22//if self.headway_time>=0 and self.headway_time<=2.0://vision_dRel+=233
+fault 23//if self.headway_time>=0 and self.headway_time<=2.0://vision_dRel+=243
+fault 24//if self.headway_time>=0 and self.headway_time<=2.0://vision_dRel+=254
+Total number of fault cases: 24

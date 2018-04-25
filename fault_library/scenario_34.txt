@@ -1,0 +1,4 @@
+title:34_vision-none-miscommVisPlant-H3
+location//selfdrive/test/plant/plant.py//#md_none:HOOK#
+fault 1//if self.headway_time>=2.0 and self.headway_time<=32.0://none
+Total number of fault cases: 1

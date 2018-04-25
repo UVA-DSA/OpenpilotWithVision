@@ -1,0 +1,27 @@
+title:41_d_rel-add-incRadVis-H1
+location//selfdrive/test/plant/plant.py//#RadVis_dRel:HOOK#
+fault 1//if self.headway_time>=0 and self.headway_time<=2.0://d_rel+=22
+fault 2//if self.headway_time>=0 and self.headway_time<=2.0://d_rel+=27
+fault 3//if self.headway_time>=0 and self.headway_time<=2.0://d_rel+=39
+fault 4//if self.headway_time>=0 and self.headway_time<=2.0://d_rel+=50
+fault 5//if self.headway_time>=0 and self.headway_time<=2.0://d_rel+=63
+fault 6//if self.headway_time>=0 and self.headway_time<=2.0://d_rel+=67
+fault 7//if self.headway_time>=0 and self.headway_time<=2.0://d_rel+=81
+fault 8//if self.headway_time>=0 and self.headway_time<=2.0://d_rel+=88
+fault 9//if self.headway_time>=0 and self.headway_time<=2.0://d_rel+=97
+fault 10//if self.headway_time>=0 and self.headway_time<=2.0://d_rel+=113
+fault 11//if self.headway_time>=0 and self.headway_time<=2.0://d_rel+=120
+fault 12//if self.headway_time>=0 and self.headway_time<=2.0://d_rel+=128
+fault 13//if self.headway_time>=0 and self.headway_time<=2.0://d_rel+=136
+fault 14//if self.headway_time>=0 and self.headway_time<=2.0://d_rel+=147
+fault 15//if self.headway_time>=0 and self.headway_time<=2.0://d_rel+=155
+fault 16//if self.headway_time>=0 and self.headway_time<=2.0://d_rel+=173
+fault 17//if self.headway_time>=0 and self.headway_time<=2.0://d_rel+=176
+fault 18//if self.headway_time>=0 and self.headway_time<=2.0://d_rel+=191
+fault 19//if self.headway_time>=0 and self.headway_time<=2.0://d_rel+=201
+fault 20//if self.headway_time>=0 and self.headway_time<=2.0://d_rel+=208
+fault 21//if self.headway_time>=0 and self.headway_time<=2.0://d_rel+=220
+fault 22//if self.headway_time>=0 and self.headway_time<=2.0://d_rel+=226
+fault 23//if self.headway_time>=0 and self.headway_time<=2.0://d_rel+=243
+fault 24//if self.headway_time>=0 and self.headway_time<=2.0://d_rel+=252
+Total number of fault cases: 24

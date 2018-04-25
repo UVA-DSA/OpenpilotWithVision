@@ -1,0 +1,4 @@
+title:6_radar-none-incRADAR-H2
+location//selfdrive/test/plant/plant.py//#radar_none:HOOK#
+fault 1//if not self.lead_relevancy and self.current_time()<=3://none
+Total number of fault cases: 1

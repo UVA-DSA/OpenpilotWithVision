@@ -1,0 +1,9 @@
+title:12_curr_sp-add-incProcPlant-H2
+location//selfdrive/test/plant/plant.py//#speed:HOOK#
+fault 1//if not self.lead_relevancy and self.current_time()>2.0://speed2send+=6.7056//if speed2send>=85.0://  speed2send= 85.0
+fault 2//if not self.lead_relevancy and self.current_time()>2.0://speed2send+=10.28192//if speed2send>=85.0://  speed2send= 85.0
+fault 3//if not self.lead_relevancy and self.current_time()>2.0://speed2send+=13.4112//if speed2send>=85.0://  speed2send= 85.0
+fault 4//if not self.lead_relevancy and self.current_time()>2.0://speed2send+=20.56384//if speed2send>=85.0://  speed2send= 85.0
+fault 5//if not self.lead_relevancy and self.current_time()>2.0://speed2send+=23.69312//if speed2send>=85.0://  speed2send= 85.0
+fault 6//if not self.lead_relevancy and self.current_time()>2.0://speed2send+=26.8224//if speed2send>=85.0://  speed2send= 85.0
+Total number of fault cases: 6
